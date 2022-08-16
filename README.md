@@ -1,0 +1,2 @@
+# SWM13-RUNNINGMACHINE-NONMENTOR-AI
+소마 프로젝트 ai 서버
